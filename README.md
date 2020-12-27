@@ -1,2 +1,2 @@
 # website-flow
-for example, by writing a list of your favourite pizza cheese
+Cheese is a dairy product, derived from milk and produced in wide ranges of flavors, textures and forms by coagulation of the milk protein casein. It comprises proteins and fat from milk, usually the milk of cows, buffalo, goats, or sheep.
